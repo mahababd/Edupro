@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 16, 2020, 2:31:15 PM
+    Author     : shahed.chaklader
+*/
+.dataTables_wrapper{
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+.dataTables_filter{
+    margin-right: 15px;
+}
+
+
+.content-header {
+    padding-top: 15px;
+    padding-right: 0.5rem;
+    padding-bottom: 0px;
+    padding-left: 0.5rem;
+    border-bottom: solid 1px #DDD;
+    margin-bottom: 10px;
+}
